@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Tyrone :wave:</h1>
 <p align="center">
-  Full Stack developer, with more than 6 years of experience in programation and T.I departmemnt. <br/> I'm always searching for knowledge.
+  Full Stack developer, with more than 9 years of experience in programation and T.I departmemnt. <br/> I'm always searching for knowledge.
 </p>
 <p align="center"><b>Connect with me on Linkedin:</b></p>
 <p align="center">
