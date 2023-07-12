@@ -203,7 +203,19 @@
 <h4>Tools</h4>
 
 <span style="display: inline-block;">
-<img alt="Static Badge" src="https://img.shields.io/badge/DOCKER-333?style=for-the-badge&logo=redis&logoColor=white&labelColor=blue">&nbsp;&nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/AWS/EC2-333?style=for-the-badge&logo=amazonec2&logoColor=white&labelColor=orange">&nbsp;&nbsp;
+</span>
+
+<span style="display: inline-block;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/KUBERNETES-333?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=blue">&nbsp;&nbsp;
+</span>
+
+<span style="display: inline-block;">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JENKINS-333?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=orange">&nbsp;&nbsp;
+</span>
+
+<span style="display: inline-block;">
+<img alt="Static Badge" src="https://img.shields.io/badge/DOCKER-333?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue">&nbsp;&nbsp;
 </span>
 
 <span style="display: inline-block;">
