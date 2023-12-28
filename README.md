@@ -30,6 +30,14 @@
 </span>
 
 <span style="display: inline-block;">
+<img alt="Static Badge" src="https://img.shields.io/badge/.NET-333?style=for-the-badge&logo=.NET&logoColor=white&labelColor=blue">&nbsp;&nbsp;
+</span>
+
+<span style="display: inline-block;">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-333?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=a54a9a">&nbsp;&nbsp;
+</span>
+
+<span style="display: inline-block;">
 <img alt="Static Badge" src="https://img.shields.io/badge/PHP-333?style=for-the-badge&logo=php&logoColor=white&labelColor=3f38e8">&nbsp;&nbsp;
 </span>
 
@@ -66,15 +74,7 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" />
 </span> -->
 
-<h5>Coming soon :hourglass_flowing_sand:</h5>
 
-<span style="display: inline-block;">
-<img alt="Static Badge" src="https://img.shields.io/badge/.NET-333?style=for-the-badge&logo=.NET&logoColor=white&labelColor=blue">&nbsp;&nbsp;
-</span>
-
-<span style="display: inline-block;">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23-333?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=a54a9a">&nbsp;&nbsp;
-</span>
 <!-- <span style="display: inline-block;">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 </span>
