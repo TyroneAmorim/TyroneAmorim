@@ -11,7 +11,7 @@
 <h3>About me now</h3>
 <ul>
   <li>:briefcase: I'm a enterprising in technology area.</li>
-  <li>:open_book: Actualy i'm coursing analysis and systems development.</li>
+  <li>:open_book: Graduated in Systems Analysis and Development.</li>
   <li>:mag_right: I'm looking to work in projects with those languages below. But, there is always something new to learn.</li>
 </ul>
 
